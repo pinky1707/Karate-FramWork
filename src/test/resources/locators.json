@@ -1,0 +1,5 @@
+{
+	"searchInput" : "//input[@id='search-field']",
+	"searchButton" : "//button[@class='btn search-ico-button']//i[@class='co-search-thin']",
+	"itemCount":"//h1[@class='t1-style']"
+}
